@@ -1,6 +1,6 @@
 # 🛠 Sketch Grid Builder
 
-![Grid Builder Logo](/images/Logo.png?raw=true "Grid Buidler Logo")
+![Grid Builder Logo](/images/Icon.png?raw=true "Grid Buidler Logo")
 
 Copy layout and Grid settings from one artboard and paste into multiples artboards - in the future we plan to implement grid libraries, which will allow you to store grid presets within the Sketch applicaton.
 
