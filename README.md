@@ -1,5 +1,8 @@
-# Grid Builder
-[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.example.sketch.layoutsettings/version.svg)](https://api.sketchpacks.com/v1/plugins/com.example.sketch.layoutsettings/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.example.sketch.layoutsettings/compatibility.svg)](https://sketchpacks.com/FrancisVega/sketch-copy-paste-layout-settings)
+# 🛠 Sketch Grid Builder
+
+<a href="https://github.com/messydesign/sketch-grid-builder">
+  <img width="40" height="40" src="https://github.com/messydesign/sketch-grid-builder/images/Icon.png" >
+</a>
 
 Copy layout and Grid settings from one artboard and paste into multiples artboards - in the future we plan to implement grid libraries, which will allow you to store grid presets within the Sketch applicaton.
 
@@ -7,7 +10,7 @@ Simple.
 
 Easy to remember.
 
-![sketchlayoutsettings](https://raw.githubusercontent.com/FrancisVega/sketch-copy-paste-layout-settings/master/sketch-layout-settings.sketchplugin/Contents/Resources/sketch-layout--demo.gif)
+![sketchgridlayoutsettings](https://raw.githubusercontent.com/FrancisVega/sketch-copy-paste-layout-settings/master/sketch-layout-settings.sketchplugin/Contents/Resources/sketch-layout--demo.gif)
 
 <a href="http://bit.ly/SketchRunnerWebsite">
   <img width="160" height="40" src="http://sketchrunner.com/img/badge%5Fblue.png" >
