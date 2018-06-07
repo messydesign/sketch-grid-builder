@@ -10,9 +10,6 @@ Simple.
 
 Easy to remember.
 
-<!--
-![sketchgridlayoutsettings](https://raw.githubusercontent.com/FrancisVega/sketch-copy-paste-layout-settings/master/sketch-layout-settings.sketchplugin/Contents/Resources/sketch-layout--demo.gif)
---!>
 <a href="http://bit.ly/SketchRunnerWebsite">
   <img width="160" height="40" src="http://sketchrunner.com/img/badge%5Fblue.png" >
 </a>
