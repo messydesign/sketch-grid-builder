@@ -1,7 +1,7 @@
 # 🛠 Sketch Grid Builder
 
 <a href="https://github.com/messydesign/sketch-grid-builder">
-  <img width="40" height="40" src="https://github.com/messydesign/sketch-grid-builder/images/Icon.png" >
+  <img width="40" height="40" src="/sketch-grid-builder/images/Icon.png" >
 </a>
 
 Copy layout and Grid settings from one artboard and paste into multiples artboards - in the future we plan to implement grid libraries, which will allow you to store grid presets within the Sketch applicaton.
